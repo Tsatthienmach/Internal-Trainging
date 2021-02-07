@@ -1,3 +1,130 @@
-def sum_(number):
-    sum([i**2 for i in range(2, number)])
+
+import os
+
+
+
+def print_cube(num):
+    num = sum([i for i in range(num)])
+    print('--> Process ID: ', os.getpid())
+    print('Cube: Done')
+
+def print_square(num):
+    num = sum([i for i in range(num)])
+    print('--> Process ID: ', os.getpid())
+    print('Square: Done')
+
+num = 10**7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
