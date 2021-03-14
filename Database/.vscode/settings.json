@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "cookies_odering",
+            "database": "${workspaceFolder:Database}/cookies.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
